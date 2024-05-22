@@ -1,0 +1,8 @@
+{
+  "description": "CellMapper Get Towers by dkxce (https://github.com/dkxce) for API v6",
+  "manifest_version": 2, "name": "CellMapper Get Towers", "version": "1.0",
+  "homepage_url": "https://github.com/dkxce/CellMapperGetTowers",
+  "permissions": ["webRequest", "webRequestBlocking", "http://www.cellmapper.net/*", "https://www.cellmapper.net/*", "http://api.cellmapper.net/*", "https://api.cellmapper.net/*"],
+  "background": {"scripts": ["background.js"]},
+  "browser_specific_settings": {"gecko": {"strict_min_version": "57.0a1"}}
+}
