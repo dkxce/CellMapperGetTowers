@@ -1,4 +1,4 @@
-# CellMapperGetTowers for Firefox
+# CellMapper Get Towers for Firefox
 
 **[CellMapper.net](https://www.cellmapper.net/map) Get Towers** allow to save received cell towers via browsing map into csv table in Firefox.    
 **[CellMapper.net](https://www.cellmapper.net/map) Get Towers** позволяет сохранять полученные сотовые вышки при навигации по карте на сайте в Firefox'е.        
