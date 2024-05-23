@@ -48,7 +48,7 @@ function listener(details)
 				
 				var a = document.createElement("a"); document.body.appendChild(a);
 				a.style = "display:none;"; a.href = blob; a.download = fileName + ".csv"; a.click();
-				window.URL.revokeObjectURL(url);
+				window.URL.revokeObjectURL(blob);
 				
 				//var creating = browser.tabs.create({url: blob, active: false});	
 				//creating.then((tab) => setTimeout(() => browser.tabs.remove(tab.id), 1000), null);
