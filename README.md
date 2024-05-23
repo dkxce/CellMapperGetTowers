@@ -8,7 +8,14 @@ How to use | Как использовать:
 - [about:debugging#/runtime/this-firefox](about:debugging#/runtime/this-firefox)     
      
 Supported API:   
-- API v6    
+- API v6
+
+You can use **[KMZRebuider](https://github.com/dkxce/KMZRebuilder)** or [SAS.Planet](https://www.sasgis.org/sasplaneta/) to View and Edit points on the map.   
+Для просмотра и редактирования полученных точек на карте вы можете использовать **[KMZRebuider](https://github.com/dkxce/KMZRebuilder)** или [SAS.Планету](https://www.sasgis.org/sasplaneta/). 
+
+***P.S**: To use csv file in SAS.Planet you should rename any valid column into`name` (ex: `siteID`, `RAT` or `RATSubType`)!*    
+***P.S**: Чтобы использовать файл csv в SAS.Планете, необходимо переименовать любой допустимый столбец в `name` (например: `siteID`, `RAT` или `RATSubType`)!*   
+
+Другие плагины для Firefox: [InfoCellGetTowers](https://github.com/dkxce/InfoCellGetTowers)    
 
 <img src="READM2.png"/>    
-<img src="READM1.png"/>    
