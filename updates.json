@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "{8190ca80-9a92-4499-a44d-5bcbeffb33c7}": {
+      "updates": [
+        {
+          "version": "1.1",
+          "update_link": "https://github.com/dkxce/InfoCellGetTowers/releases/download/v1.1/InfoCellGetTowers_v1.1.xpi"
+		}
+      ]
+    }
+  }
+}
